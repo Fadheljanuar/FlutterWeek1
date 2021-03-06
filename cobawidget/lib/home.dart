@@ -48,14 +48,14 @@ Widget build(BuildContext context) {
                     Flexible(
                         flex: 1,
                         child: Container(width: 150, margin: EdgeInsets.all(5),
-                            child: Image(image: AssetImage(""),))),
+                            child: Image(image: AssetImage("Catalog1.JPG"),))),
                             
                     Flexible(
                         flex: 1,
                         child: Container(
                             margin: EdgeInsets.all(5),
                             width: 150,
-                            child: Image(image: AssetImage(""),
+                            child: Image(image: AssetImage("FrontLogo.JPG"),
                             ))),
 
                     Flexible(
@@ -63,7 +63,7 @@ Widget build(BuildContext context) {
                         child: Container(
                             margin: EdgeInsets.all(5),
                             width: 150,
-                            child: Image(image: AssetImage(""),
+                            child: Image(image: AssetImage("Model2.JPG"),
                             ))),
 
                     Flexible(
@@ -72,7 +72,7 @@ Widget build(BuildContext context) {
                             margin: EdgeInsets.all(5),
                             width: 150,
                             child: Image(
-                              image: AssetImage(""),
+                              image: AssetImage("Oversized_Chart.PNG"),
                             ))),
                   ],
                 ),
